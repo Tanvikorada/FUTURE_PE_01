@@ -28,3 +28,5 @@ thumbnail concepts, and a video workflow.
 - Video Script
 - Thumbnail Concept
 - Final Deliverables
+
+Notion link : https://www.notion.so/Prompt-Engineering-Project-AI-Runs-My-Day-2d49e5ff85ee8047b148de7673da53ec?source=copy_link
